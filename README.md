@@ -1,11 +1,12 @@
 <h1 align="center"> JS Pokedex </h1>
 
-
+<p align="center">
+Desenvolvido como desafio do curso de JS da DIO durante o bootcamp da orange tech com incrementos pessoais
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -30,10 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 A pokedex tem como intuito a listagem de pokemons inicialmente da primeira geraçao. O projeto possui modificaçoes proprias como um modal com mais detalhes do pokemon ao clicar no mesmo e pequenos detalhes de css.
-
-<p align="center">
-Desenvolvido como desafio do curso de JS da DIO durante o bootcamp da orange tech
-</p>
 
 ## :memo: Licença
 
