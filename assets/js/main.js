@@ -15,7 +15,8 @@ function loadPokemons(offset, limit) {
             pokemon.url
           }')" >
             <span class="pokemon__number">#${String(pokemon.id).padStart(
-              3
+              3,
+              "0"
             )}</span>
             <span class="pokemon__name">${pokemon.name}</span>
             <div class="pokemon__details">
