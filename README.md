@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by [LuPeBreak](https://github.com/LuPeBreak/) como um desafio durante os cursos de JS da [DIO](https://dio.me/)
+Feito com ♥ by [LuPeBreak](https://github.com/LuPeBreak/) como um desafio durante os cursos de JS da [DIO](https://dio.me/) - PoweredBy [PokeAPI](https://pokeapi.co/)
